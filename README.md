@@ -1,2 +1,2 @@
 # carentalphp
-carrentalphp is web based platform where the user books the car and is controlled by the admin.
+carrentalphp is web based platform where the user rents the car and is controlled by the admin.
